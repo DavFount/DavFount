@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DavFount
 - 👀 I’m interested in ...
-Scripting, Gaming, Web Development (back ends only sorry not super creative). I love the outdoors too. Four-Wheeling and camping.. Nothing beats writing scripts on top of a mountain.
+--Scripting, Gaming, Web Development (back ends only sorry not super creative). I love the outdoors too. Four-Wheeling and camping.. Nothing beats writing scripts on top of a mountain.
 - 🌱 I’m currently learning ...
-Python - Currently working towards PCEP-30-01 Exam and then continuing on to PCPP and PCAP
+--Python - Currently working towards PCEP-30-01 Exam and then continuing on to PCPP and PCAP
 - 📫 How to reach me ...
-Feel free to comment on my repositories with ideas on how to make my code better or if you see something you don't understand feel free to ask.
+--Feel free to comment on my repositories with ideas on how to make my code better or if you see something you don't understand feel free to ask.
